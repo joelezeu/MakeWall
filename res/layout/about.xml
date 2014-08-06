@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/lloyd"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+        <ImageView
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:src="@drawable/joel"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Me:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_gravity="center"
+        android:textColor="#0000FF" />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:text="My name is Joel Eze. I grew up in Lagos Nigeria, I&apos;m currently 22 years old, I attended AwodiOra Senior Secondary School, a government owned school in my area, I&apos;m currently a student studying Information Technology, at the prestigeos Federal University of Technology, Owerri, Imo State, Nigeria where I live currently. My interest in computers, software development and web development grew when I started taking courses, during my course of studying Information Technology. Well thanks to God Almighty and my family especially my elder brothers and sisters. They are Ifeanyi Eze, Stella Orji, Regina Eze, Christian Eze, Henry Eze, Patricia Eze, Blessing Eze.\nMy contacts are Phone:08138249630, \nEmails: jl_eze@yahoo.co.uk.\nGod bless you all."
+        android:textColor="#0000FF" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:textColor="#0000FF" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:text="Thank you for downloading MakeWall v2.1.1"
+        android:textColor="#0000FF" />
+
+</LinearLayout>
+</ScrollView>

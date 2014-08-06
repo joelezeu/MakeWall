@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please help this App grow by telling your friends to download it, by going to http://nextapps.mtnonline.com/apps/mtn-developer-challenge, OR using your MTN line send APPS to 131, just search for MakeWall after you've registered.\nMake sure you rate it 5 star.\nBB Q5 or Nokia Lumia will be rewarded for each download from MTN.\nGod bless you all"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>
